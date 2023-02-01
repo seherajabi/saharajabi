@@ -1,0 +1,10 @@
+Harry_Potter A1 J.K.Rowling 1 Bloomsbury 9780747542988 223 Fantasy free
+The_Lord_of_the_Rings B2 Tolkien 2 Houghton_Mifflin 9780618129027 1137 Epic free
+GNU_Emacs_Manual C4 Richard_Stallman 9 Free_Software_Foundation 9781882114030 404 Computer_Software free
+Hafiz A2 Hafiz 1 CreateSpace 9781511986649 676 Poetry free
+Shahnameh A3 Ferdowsi 1 Penguin 9781101993231 1040 Epic free
+Hasht_Ketab A4 Sohrab_Sepehri 1 Createspace 9781546711742 294 Poetry free
+Just_for_Fun B3 Linus_Torvalds 1 HarperCollins 9780066620732 288 Biography free
+Alex_Ferguson B3 Alex_Ferguson 1 Hodder 9780340919392 402 Biography free
+TheC++Programming_Language D2 Bjarne_Stroustrup 1 Addison-Wesley 9780321563842 1346 Computers loan
+Feynman B3 Jim_Ottaviani 1 First_Second 9781596438279 272 Biography free
